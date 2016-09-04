@@ -1,0 +1,3 @@
+# MyGit
+MyGitPath
+Use Git Now...
